@@ -1,2 +1,2 @@
-# credit-risk-classificationHW15
+# credit-risk-classification
 HW15
